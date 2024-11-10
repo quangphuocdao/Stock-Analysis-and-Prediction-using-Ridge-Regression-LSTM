@@ -35,6 +35,15 @@ Bộ dữ liệu được thu thập từ website cafef, ghi nhận thông tin v
 
 - Việc sử dụng cả ba chỉ số này giúp có được bức tranh toàn diện về hiệu quả của mỗi mô hình, từ đó xác định phương pháp dự đoán giá cổ phiếu tốt nhất cho tập dữ liệu VN30.
 
+## Kết quả dự đoán:
+
+- Dưới đây là biểu đồ thể hiện việc dự đoán của các mô hình đối với cổ phiếu VCB:
+
+![image](https://github.com/user-attachments/assets/070fe6c3-5ed8-40c0-88ba-d5bf6fe81051)
+
+![image](https://github.com/user-attachments/assets/089fceb1-3de6-489d-ba73-d097dba679de)
+
+
 
 
 
