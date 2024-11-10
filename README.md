@@ -1,5 +1,5 @@
 # Stock Analysis and Prediction using Ridge Regression and LSTM
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a8743c7d-c5db-4bcb-bce1-2c1a83e05c5b)
 
 ## Mô tả dự án
 
