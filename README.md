@@ -37,11 +37,12 @@ Bộ dữ liệu được thu thập từ website cafef, ghi nhận thông tin v
 
 ## Kết quả dự đoán:
 
-- Dưới đây là biểu đồ thể hiện việc dự đoán của các mô hình đối với cổ phiếu VCB:
+- Dưới đây là biểu đồ thể hiện việc dự đoán của các mô hình đối với cổ phiếu FPT:
 
-![image](https://github.com/user-attachments/assets/070fe6c3-5ed8-40c0-88ba-d5bf6fe81051)
+![image](https://github.com/user-attachments/assets/b2ba4cc3-681d-401a-b164-4e699fd75674)
 
-![image](https://github.com/user-attachments/assets/089fceb1-3de6-489d-ba73-d097dba679de)
+![image](https://github.com/user-attachments/assets/d2cd7225-e4fb-4246-aaae-d0217747e60b)
+
 
 
 
