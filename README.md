@@ -10,7 +10,7 @@ Bộ dữ liệu được thu thập từ website cafef, ghi nhận thông tin v
 
 ## Nội dung dự án
 
-1. Tiền xử lý dữ liệu: 
+1. **Tiền xử lý dữ liệu**: 
 
 - Để dự đoán chính xác giá cổ phiếu, dữ liệu lịch sử về giá đóng cửa (Close price) cần được chuẩn bị và làm sạch trước khi đưa vào mô hình. 
 
@@ -18,7 +18,7 @@ Bộ dữ liệu được thu thập từ website cafef, ghi nhận thông tin v
 
 - Bên cạnh đó, để sử dụng LSTM, dữ liệu còn được chia thành các chuỗi có độ dài cố định dựa trên số ngày đã chọn (window size), nhằm cung cấp ngữ cảnh về xu hướng trước đó khi dự đoán giá cho ngày tiếp theo. Các bước chuẩn bị dữ liệu cẩn thận này giúp đảm bảo tính chính xác và khả năng khái quát hóa của mô hình khi huấn luyện và kiểm tra với dữ liệu thực tế.
 
-2. Dự báo giá cổ phiếu: 
+2. **Dự báo giá cổ phiếu**: 
 
 - Dữ liệu lịch sử sau khi đã qua tiền xử lý sẽ được chia thành tập train và tập test theo tỷ lệ 95:5, tức là 95% dữ liệu được sử dụng để huấn luyện mô hình và 5% còn lại để đánh giá mô hình. 
 
@@ -26,7 +26,7 @@ Bộ dữ liệu được thu thập từ website cafef, ghi nhận thông tin v
 
 - Trong khi đó, mô hình LSTM xử lý dữ liệu dạng chuỗi thời gian, khai thác được các mối liên hệ dài hạn trong dữ liệu, giúp dự báo các biến động giá trong tương lai. Quá trình dự báo sẽ đưa ra các giá trị dự đoán so với thực tế, giúp phân tích và đánh giá hiệu quả của từng mô hình.
 
-3. Đánh giá mô hình: 
+3. **Đánh giá mô hình**: 
 
 - Sau khi dự báo giá cổ phiếu hoàn tất, hiệu quả của mỗi mô hình sẽ được đánh giá thông qua các chỉ số đo lường độ chính xác như MSE (Mean Squared Error), RMSE (Root Mean Squared Error), và MAE (Mean Absolute Error).
 
